@@ -1,4 +1,4 @@
-# Principle-Component-Analysis-PCA-using-Householder-Reflection-
+# Principle_Component_Analysis_using_Householder_Reflection
 
 ■ Principle Component Analysis is technique for dimensional reduction.
 
